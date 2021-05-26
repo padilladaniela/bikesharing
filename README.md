@@ -6,6 +6,8 @@ Statistical analysis of MechaCar vehicles and a study designed to compare the Me
 
 ### Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
+![image1](https://github.com/padilladaniela/bikesharing/blob/main/Resources/Challenge_1.png)
+
 * In the image "Checkout Times for Users" it shows the duration of the bike trips in minutes. The majority of trips are under 20 minutes, and it most significant volume is of trips is 5 minutes.
 
 
