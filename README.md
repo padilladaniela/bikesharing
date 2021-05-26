@@ -18,7 +18,7 @@ Statistical analysis of MechaCar vehicles and a study designed to compare the Me
 
 * In the image "Trips by Weekday Per Hour" shows the number of bikes used during the weekdays per hour. The morning rush hours are between 7am and 9pm. The peak hour is 8am. The afternoon rush hours are between 4pm and 7pm, with the afternoon peak hours are 5pm and 6pm.
 
-![image4](https://github.com/padilladaniela/bikesharing/blob/main/Resources/Challenge_4.png)
+![image4](https://github.com/padilladaniela/bikesharing/blob/main/Resources/Challenge_24.png)
 
 * In the image "Trip By Gender (Weekday Per Hour)" shows the number of bikes used during the weekdays per hour by gender. During the morning and afternoon rush hours, male bikers are almost 3 times more than female bikers. For example, Thursday morning peak hours for females is 9,740 and male Thurdays morning peak hours is 25,694.
 
