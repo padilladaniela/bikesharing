@@ -27,4 +27,8 @@ Statistical analysis of MechaCar vehicles and a study designed to compare the Me
 * The image "User Trips By Gender By Weekday" shows what type of customer uses the bike share program on any day of the week, subscribers and customer. Subscribers are returning users, and customers are categorized as single ride users. More users identifying as either males or females are subscribers, while most users under the customer categories are listed as gender unknown. Female bike subscribers are least popular on Wednesdays. Male bike subscribers are most popular on Thursdays, but most days have high usage for male subscribers in general. For customers the highest bike use time are on Saturdays and Sundays.
 
 
-#### Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+#### Summary
+
+1. Bike stations should be under 20 minutes away from each other in areas where there is a lot of foot traffic. Since the average duration for bike trips is 20 minutes.
+2. Another suggestion is to incentivize female riders.
+3. Other visualizations that may be useful for further analysis include adding the customer profile to make better predictions and also finding which are the top bike stations in NYC to determine how to better place in the future.
